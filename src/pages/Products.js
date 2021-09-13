@@ -1,13 +1,20 @@
 import React from 'react'
 
+
+
 const Products = () => {
+
+  
+
+
+
   return (
     <div>
       <h1>Products Page</h1>
       <ul>
-        <li>Product 1</li>
-        <li>Product 2</li>
-        <li>Product 3</li>
+        <li>Book</li>
+        <li>Carpet</li>
+        <li>Online Course</li>
       </ul>
     </div>
   )
